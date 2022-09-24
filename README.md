@@ -1,6 +1,7 @@
 # Android_Custom_Adapter
 Android App Using Custom ArrayAdapter &amp; ListView
 
+This topic is a part of [My Complete Andorid Course](https://github.com/ananddasani/Android_Apps)
 
 # Code
 
@@ -66,9 +67,6 @@ ListView listView;
 ```
 
 # App Highlight
-
-<img src="app_images/Custom Adapter Code.png" width="1000" /><br>
-
-<img src="app_images/Custom Adapter App1.png" width="300" /><br>
-
-<img src="app_images/Custom Adapter App2.png" width="300" /><br>
+![Custom Adapter App1](https://user-images.githubusercontent.com/74413402/192095269-f3b9e30a-43f7-402d-a140-967c580cc148.png)
+![Custom Adapter App2](https://user-images.githubusercontent.com/74413402/192095276-fa404162-030c-476d-be48-d704248e1545.png)
+![Custom Adapter Code](https://user-images.githubusercontent.com/74413402/192095278-36ff2426-6c25-4c3a-9820-c29c14b201e3.png)
